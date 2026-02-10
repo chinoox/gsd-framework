@@ -1,0 +1,41 @@
+# REQUIREMENTS - PROJECT_NAME
+
+**Proyecto:** PROJECT_NAME  
+**Fecha:** YYYY-MM-DD  
+**Versión:** v1.0
+
+---
+
+## 🎯 Funcional - v1 (Must Have)
+
+Estas features DEBEN estar para considerar v1 completo:
+
+- [ ] **REQ-001:** [Descripción clara de la feature]
+  - **Criterios de aceptación:**
+    - [Criterio 1]
+    - [Criterio 2]
+- [ ] **REQ-002:** [Siguiente feature crítica]
+- [ ] **REQ-003:** [Otra feature crítica]
+
+## ⚡ No-Funcional - v1
+
+Requisitos técnicos/operativos:
+
+- **Performance:** [ej. "Respuesta < 2s"]
+- **Disponibilidad:** [ej. "99.9% uptime"]
+- **Seguridad:** [requerimientos de auth/encriptación]
+- **Escalabilidad:** [usuarios concurrentes esperados]
+
+## 💡 Funcional - v2 (Nice to Have)
+
+**EXPLÍCITAMENTE fuera de scope para v1:**
+
+- [ ] **REQ-v2-001:** [Feature futura]
+- [ ] **REQ-v2-002:** [Otra feature futura]
+
+> **Nota:** v2 es el parking lot. No empezar hasta que v1 esté 100% funcional.
+
+---
+
+**Priorización:** v1 features ordenadas por valor/riesgo  
+**Última actualización:** YYYY-MM-DD

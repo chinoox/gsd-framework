@@ -1,0 +1,58 @@
+# ROADMAP - PROJECT_NAME
+
+**Proyecto:** PROJECT_NAME  
+**Última actualización:** YYYY-MM-DD  
+
+---
+
+## Fase 0: Setup ✅
+**Estado:** COMPLETADA / EN PROGRESO / PENDIENTE  
+**Objetivo:** [Qué se logra en esta fase]
+
+### Tareas
+- [ ] Tarea 1
+- [ ] Tarea 2
+- [ ] Tarea 3
+
+### Criterios de Aceptación
+- [ ] [Criterio específico y medible]
+
+---
+
+## Fase 1: [Nombre] ⏳
+**Estado:** PENDIENTE  
+**Depende de:** Fase 0  
+**Objetivo:** [Qué se logra]
+
+### Tareas
+- [ ] Tarea 1
+- [ ] Tarea 2
+
+### Criterios de Aceptación
+- [ ] [Criterio específico]
+
+---
+
+## Fase 2: [Nombre] ⏳
+**Estado:** PENDIENTE  
+**Depende de:** Fase 1
+
+[... estructura similar ...]
+
+---
+
+## Fase N: [Nombre] ⏳
+
+---
+
+## Fases Completadas
+
+### Fase X: [Nombre] ✅
+**Completada:** YYYY-MM-DD  
+**Resumen:** [Qué se logró]
+
+---
+
+**Fase Actual:** [Número]  
+**Bloqueos:** [Ninguno / Lista]  
+**Riesgos:** [Lista de riesgos identificados]

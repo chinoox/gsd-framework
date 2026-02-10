@@ -1,0 +1,44 @@
+# PROJECT_NAME
+
+**Proyecto:** PROJECT_NAME  
+**Fecha inicio:** YYYY-MM-DD  
+**Estado:** 🚧 En progreso / ✅ Completado / ⏸️ Pausado  
+
+---
+
+## 🎯 Problema
+
+¿Qué problema estamos resolviendo?
+
+[Describir el problema que motiva este proyecto]
+
+## 👥 Usuarios
+
+¿Quién usará esto?
+
+- **Usuario principal:** [rol/persona]
+- **Usuarios secundarios:** [otros roles]
+
+## ✅ Éxito
+
+¿Cómo sabremos que funcionó?
+
+- Métrica 1: [ej. "Tiempo de respuesta < 2s"]
+- Métrica 2: [ej. "99.9% uptime"]
+- Métrica 3: [ej. "Usuarios activos > 100"]
+
+## 🚧 Restricciones
+
+- **Tiempo:** [deadline o estimación]
+- **Presupuesto:** [si aplica]
+- **Tecnología:** [stack obligatorio]
+- **Scope:** [lo que NO incluye]
+
+## 📝 Notas
+
+[Decisiones, contexto, links relevantes]
+
+---
+
+**Responsable:** [Nombre]  
+**Colaboradores:** [Nombres]

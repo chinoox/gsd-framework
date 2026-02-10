@@ -1,0 +1,63 @@
+# STATE - PROJECT_NAME
+
+**Proyecto:** PROJECT_NAME  
+**Fecha:** YYYY-MM-DD HH:MM  
+**Sesión:** [Número o identificador]
+
+---
+
+## 🎯 Fase Actual
+
+**Fase:** [Número - Nombre]  
+**Estado:** 🚧 En progreso / ⏸️ Bloqueada / ✅ Completada
+
+### Progreso
+- [ ] Tarea 1
+- [x] Tarea 2 (completada)
+- [ ] Tarea 3
+
+---
+
+## 📝 Última Sesión (YYYY-MM-DD)
+
+**Trabajo realizado:**
+- [Descripción de lo que se hizo]
+
+**Decisiones tomadas:**
+- [Decisión 1]
+- [Decisión 2]
+
+**Problemas encontrados:**
+- [Problema y cómo se resolvió]
+
+---
+
+## 🚧 Bloqueos
+
+**Bloqueos activos:**
+- [ ] [Descripción del bloqueo] → [Próximo paso para desbloquear]
+
+**Bloqueos resueltos:**
+- ✅ [Bloqueo anterior] → [Cómo se resolvió]
+
+---
+
+## 🎯 Próximos Pasos
+
+**Para la próxima sesión:**
+1. [Tarea prioritaria]
+2. [Siguiente tarea]
+3. [Tarea opcional]
+
+---
+
+## 📊 Métricas
+
+- **Tiempo invertido:** [X horas]
+- **Features completadas:** [N/M]
+- **Bugs conocidos:** [Lista o "Ninguno"]
+
+---
+
+**Actualizado por:** [Nombre]  
+**Próxima revisión:** [Fecha]
